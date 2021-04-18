@@ -2,8 +2,8 @@
 # 4/18/21
 # Week12-Assignment1
 
-# This program that does two things. first it a file containing a list of names.
-# Later it then reopens this file and appends additional names to this list.
+# This program that does two things. First it creates a file containing a list of names.
+# Later it reopens this file and appends additional names to this list.
 
 # Function that creates and adds the initial content of the file.
 def file_creation():
