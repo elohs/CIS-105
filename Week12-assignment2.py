@@ -34,7 +34,7 @@ def read_lines():
     input_file.close()
 
     # This is where the data from the first three lines is displayed using
-    # the variables that represent them. end='' is used to suppress new 
+    # the variables that represent this data. end='' is used to suppress new 
     # lines being displayed.
     print(line1 , end='')
     print(line2 , end='')
